@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Mayank/static/css/main.4f0b231b.css",
+    "main.js": "/TextUtils-Mayank/static/js/main.3faaaf83.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtils-Mayank/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtils-Mayank/index.html",
+    "main.4f0b231b.css.map": "/TextUtils-Mayank/static/css/main.4f0b231b.css.map",
+    "main.3faaaf83.js.map": "/TextUtils-Mayank/static/js/main.3faaaf83.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtils-Mayank/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0b231b.css",
+    "static/js/main.3faaaf83.js"
+  ]
+}
